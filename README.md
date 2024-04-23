@@ -31,5 +31,3 @@ The data used in this dashboard is sourced from the Netflix dataset.
 Feel free to reach out for any feedback or questions regarding this dashboard!
 
 ---
-
-You can copy and paste this template into your README.md file in your GitHub repository and replace `https://public.tableau.com/profile/username#!/vizhome/NetflixDatasetDashboard/Dashboard` with the actual link to your Tableau Public dashboard.
